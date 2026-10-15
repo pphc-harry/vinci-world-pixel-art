@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vinci World Pixel Art"
+  short_description: "重用已確認嘅 Vinci World 粗粒像素畫風、人物原圖及場景來源"
+  default_prompt: "用 $vinci-world-pixel-art 跟返已確認嘅粗粒像素質感，製作一張全新 Vinci World 場景。"

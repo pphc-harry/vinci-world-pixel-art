@@ -1,0 +1,77 @@
+[
+  {
+    "asset": "assets/vinci-full-logo.png",
+    "role": "required_full_brand_logo_every_image",
+    "size": [
+      1920,
+      1080
+    ],
+    "bytes": 1133690,
+    "sha256": "4aa2d472d51c568150c79b944a6e8886b1d37b4bc01684bc5268b8072e15b208",
+    "approval_message_ids": [
+      "1555151971185332294",
+      "1555155221062098956"
+    ],
+    "placement": {
+      "anchor": "bottom_right",
+      "visible_width_fraction": 0.26,
+      "reference_canvas": [
+        1672,
+        941
+      ],
+      "reference_visible_size": [
+        435,
+        172
+      ],
+      "reference_right_bottom_margin_px": [
+        14,
+        14
+      ],
+      "preserve_full_tagline": "INCUBATED BY renaiss"
+    }
+  },
+  {
+    "asset": "assets/style-approved.png",
+    "role": "approved_style",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 1091026,
+    "sha256": "2554464b24c47c472de9f9fd7d50d08d91a904a25c0f91ff187a0b946898b690",
+    "approval_message_ids": [
+      "1548721445624877068",
+      "1548724336997695680"
+    ]
+  },
+  {
+    "asset": "assets/characters-original.png",
+    "role": "user_supplied_character_identity",
+    "size": [
+      1290,
+      2796
+    ],
+    "bytes": 1945944,
+    "sha256": "07934ddee38fcca50a8fd0beaf049f01f4022ce7b59fe3a6bb7f654cba849052"
+  },
+  {
+    "asset": "assets/scene-library-01-25.jpg",
+    "role": "generated_scene_contact_sheet_not_style",
+    "size": [
+      1600,
+      912
+    ],
+    "bytes": 472279,
+    "sha256": "b18194ec9d4e96c232dd444508d4fbdad65d3b030b94111770d161f20abd8358"
+  },
+  {
+    "asset": "assets/scene-library-26-50.jpg",
+    "role": "generated_scene_contact_sheet_not_style",
+    "size": [
+      1600,
+      912
+    ],
+    "bytes": 468425,
+    "sha256": "b5d406697c1bcb436ce3079f10fdc3a73a7ec3a5e93912387443323c9f9dc2ca"
+  }
+]
